@@ -1,0 +1,14 @@
+{
+	"font_size": 12,
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"theme": "Default Dark.sublime-theme",
+	"line_padding_bottom": 3,
+    "line_padding_top": 3,
+	"vintage_start_in_command_mode": true,
+	"vintage_ctrl_keys": true,
+	"ignored_packages": 
+	[
+		
+	],
+
+}
