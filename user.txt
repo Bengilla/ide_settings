@@ -8,7 +8,8 @@
 	"vintage_ctrl_keys": true,
 	"ignored_packages": 
 	[
-		
 	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 
 }
